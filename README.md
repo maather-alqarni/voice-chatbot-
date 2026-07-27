@@ -84,7 +84,7 @@ Wait until the status dot turns green (Ready), then press the **"🎙️ Hold to
 
 ---
 ## 🎬 Demo Video
-[Watch the demo](https://drive.google.com/file/d/1yMHoOv0fRmZab5oqVQYmTDSp5l9I5YyD/view?usp=sharing))
+[Watch the demo](https://drive.google.com/file/d/1yMHoOv0fRmZab5oqVQYmTDSp5l9I5YyD/view?usp=sharing)
 
 ---
 
